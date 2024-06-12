@@ -1,0 +1,23 @@
+body{
+    background-color: #030920;
+}
+
+.navigation{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo{
+    color: rgb(252, 94, 147);
+}
+
+.navlinks > a{
+    color: #fff;
+    text-decoration: none;
+    margin: 16px;
+    
+}
